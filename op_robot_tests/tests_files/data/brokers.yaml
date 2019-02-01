@@ -1350,3 +1350,24 @@ setam:
         provider1:      setam_Provider1
         viewer:         setam_Viewer
     timeout_on_wait: 120
+rwsbank:
+    intervals:
+        default:
+            enquiry: [0, 17]
+            tender:  [0, 19]
+        dgfFinancialAssets:
+           accelerator: 70
+           auction:  [70, 80]
+        dgfOtherAssets:
+            accelerator: 100
+            auction:  [55, 65]
+        dgfInsider:
+            accelerator: 360
+            auction:  [25, 30]
+    keywords_file: rwsbank
+    roles:
+        tender_owner:   rwsbank_Owner
+        provider:       rwsbank_Provider
+        provider1:      rwsbank_Provider1
+        viewer:         rwsbank_Viewer
+    timeout_on_wait: 120
