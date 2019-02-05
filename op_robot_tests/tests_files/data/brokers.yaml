@@ -1353,8 +1353,8 @@ setam:
 rwsbank:
     intervals:
         default:
-            enquiry: [0, 17]
-            tender:  [0, 19]
+            enquiry: [0, 25]
+            tender:  [0, 25]
         dgfFinancialAssets:
            accelerator: 70
            auction:  [70, 80]
