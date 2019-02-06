@@ -1359,7 +1359,7 @@ rwsbank:
            accelerator: 70
            auction:  [70, 80]
         dgfOtherAssets:
-            accelerator: 100
+            accelerator: 70
             auction:  [55, 65]
         dgfInsider:
             accelerator: 360
