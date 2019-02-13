@@ -1357,7 +1357,7 @@ rwsbank:
             tender:  [0, 60]
         dgfFinancialAssets:
            accelerator: 70
-           auction:  [70, 80]
+           auction:  [115, 125]
         dgfOtherAssets:
             accelerator: 70
             auction:  [105, 115]
