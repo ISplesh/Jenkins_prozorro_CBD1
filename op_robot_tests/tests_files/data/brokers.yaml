@@ -1354,13 +1354,13 @@ rwsbank:
     intervals:
         default:
             enquiry: [0, 45]
-            tender:  [0, 30]
+            tender:  [0, 60]
         dgfFinancialAssets:
            accelerator: 70
            auction:  [70, 80]
         dgfOtherAssets:
             accelerator: 70
-            auction:  [55, 65]
+            auction:  [105, 115]
         dgfInsider:
             accelerator: 360
             auction:  [25, 30]
