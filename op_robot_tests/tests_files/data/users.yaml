@@ -2186,36 +2186,6 @@ users:
         browser:  chrome
         position: [0, 0]
         size:     [1366, 768]
-    setam_Owner_auction:
-        broker:   setam
-        homepage: "https://npl.setam.net.ua"
-        login:    testprozorroyowner@gmail.com
-        password: andriy85
-        browser:  Chrome
-        position: [0, 0]
-        size:     [1366, 800]
-    setam_Provider_auction:
-        broker:   setam
-        homepage: "https://npl.setam.net.ua"
-        login:    uaceseller1@mail.ru
-        password: andriy85
-        browser:  Chrome
-        position: [0, 0]
-        size:     [1366, 800]
-    setam_Provider1_auction:
-        broker:   setam
-        homepage: "https://npl.setam.net.ua"
-        login:    uaceseller2@mail.ru
-        password: andriy85
-        browser:  Chrome
-        position: [0, 0]
-        size:     [1366, 800]
-    setam_Viewer_auction:
-        broker:   setam
-        homepage: "https://npl.setam.net.ua"
-        browser:  Chrome
-        position: [0, 0]
-        size:     [1366, 800]
     evropeyska_Owner:
         broker:   evropeyska
         homepage: "http://sale.tbe-birzha.com.ua/user/login"
@@ -2280,5 +2250,35 @@ users:
         default_page: "https://sale.ecoex.com.ua/test/PositionList.aspx"
         login:    ecoex_Viewer@1.ua
         browser:  chrome
+        position: [0, 0]
+        size:     [1366, 800]
+    rwsbank_Owner_auction:
+        broker:   rwsbank
+        homepage: "https://test.torgy.rwsbank.com.ua"
+        login:    cloudema.i.l.40@gmail.com
+        password: 123456
+        browser:  Chrome
+        position: [0, 0]
+        size:     [1366, 800]
+    rwsbank_Provider_auction:
+        broker:   rwsbank
+        homepage: "https://test.torgy.rwsbank.com.ua"
+        login:    cloudemail4.0@gmail.com
+        password: 123456
+        browser:  Chrome
+        position: [0, 0]
+        size:     [1366, 800]
+    rwsbank_Provider1_auction:
+        broker:   rwsbank
+        homepage: "https://test.torgy.rwsbank.com.ua"
+        login:    cloud.email40@gmail.com
+        password: 123456
+        browser:  Chrome
+        position: [0, 0]
+        size:     [1366, 800]
+    rwsbank_Viewer_auction:
+        broker:   rwsbank
+        homepage: "https://test.torgy.rwsbank.com.ua"
+        browser:  Chrome
         position: [0, 0]
         size:     [1366, 800]
