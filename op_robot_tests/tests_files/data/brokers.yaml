@@ -944,7 +944,7 @@ rwsbank:
     keywords_file: rwsbank
     roles:
         tender_owner:   rwsbank_Owner
-        provider:   rwsbank_Provider
-        provider1:   rwsbank_Provider1
-        viewer:   rwsbank_Viewer
+        provider:       rwsbank_Provider
+        provider1:      rwsbank_Provider1
+        viewer:         rwsbank_Viewer
     timeout_on_wait: 180
