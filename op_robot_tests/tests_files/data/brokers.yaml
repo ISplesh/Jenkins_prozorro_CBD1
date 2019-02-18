@@ -933,3 +933,18 @@ tsbgalcontract:
             tender:  [0, 25]
             auction: [25, 30]
     timeout_on_wait: 10
+rwsbank:
+    intervals:
+        default:
+            enquiry: [0, 17]
+            tender:  [0, 19]
+        dgfOtherAssets:
+            accelerator: 1440
+            auction:  [45, 50]
+    keywords_file: rwsbank
+    roles:
+        tender_owner:   rwsbank_Owner
+        provider:   rwsbank_Provider
+        provider1:   rwsbank_Provider1
+        viewer:   rwsbank_Viewer
+    timeout_on_wait: 180
