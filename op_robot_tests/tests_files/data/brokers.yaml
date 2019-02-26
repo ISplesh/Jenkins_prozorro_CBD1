@@ -1200,7 +1200,7 @@ rwsbank:
             accelerator: 360
         auctions:
             accelerator: 1440
-            auction:  [25, 60]
+            auction:  [120, 120]
     keywords_file: rwsbank
     roles:
         tender_owner:   rwsbank_Owner_auction
