@@ -130,10 +130,10 @@ opentenderauction:
             accelerator: 1440
             auction:  [45, 50]
         lots:
-            accelerator: 100
+            accelerator: 360
         auctions:
             accelerator: 1440
-            auction:  [120, 60]
+            auction:  [25, 60]
     keywords_file: opentender
     roles:
         tender_owner:   opentender_Owner_auction
