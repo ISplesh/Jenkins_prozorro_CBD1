@@ -133,7 +133,7 @@ opentenderauction:
             accelerator: 360
         auctions:
             accelerator: 1440
-            auction:  [35, 50]
+            auction:  [25, 40]
     keywords_file: opentender
     roles:
         tender_owner:   opentender_Owner_auction
